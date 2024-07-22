@@ -21,7 +21,7 @@ The project uses a dataset of restaurant reviews, processes the text to remove n
 
 ## Results
 
-The model achieved an accuracy of **75.2%** on the test set. The best accuracy achieved using Grid Search was **79.33%**.
+The model achieved an accuracy of **75.2%** on the test set. The best accuracy achieved using Grid Search is **79.33%**.
 
 ## Requirements
 
